@@ -1,5 +1,5 @@
-SELECT @@version;
+USE test
 
-SELECT 1;
-
-SELECT * FROM sys.databases;
+CREATE TABLE test_table2 (
+    ID INT
+);

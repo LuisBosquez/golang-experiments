@@ -1,0 +1,1 @@
+pass parameter to stored procedure to make sense of the scoring.
